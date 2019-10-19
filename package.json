@@ -1,12 +1,12 @@
 {
-  "name": "bookmark-manager-2",
+  "name": "chrome-extension-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A chrome boilerplate extension with ReactJS",
   "main": "index.js",
   "scripts": {
     "start": "webpack --watch --env.mode=development"
   },
-  "author": "",
+  "author": "Muhammad Hasnain",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.6.4",

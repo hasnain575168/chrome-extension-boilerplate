@@ -44,7 +44,15 @@ module.exports = ({
     popup: [
       '@babel/polyfill',
       './src/popup/index.js'
-    ]
+    ],
+    content: [
+      '@babel/polyfill',
+      './src/content/index.js'
+    ],
+    background: [
+      '@babel/polyfill',
+      './src/background/index.js'
+    ],
   },
 
   output: {

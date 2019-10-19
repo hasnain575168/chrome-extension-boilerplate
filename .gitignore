@@ -1,2 +1,3 @@
-addon
+addon/scripts
+addon/styles
 node_modules
